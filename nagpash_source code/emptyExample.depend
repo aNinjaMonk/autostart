@@ -1,0 +1,3276 @@
+# depslib dependency file v1.0
+1338187258 source:c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\addons\ofxvectorgraphics\src\ofxvectorgraphics.cpp
+	"ofxVectorGraphics.h"
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\addons\ofxvectorgraphics\src\ofxvectorgraphics.h
+	"CreEPS.hpp"
+	"ofMain.h"
+	<vector>
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\addons\ofxvectorgraphics\libs\creeps.hpp
+	<stdio.h>
+	<stdarg.h>
+	"CreEPS_Types.hpp"
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\addons\ofxvectorgraphics\libs\creeps_types.hpp
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\ofmain.h
+	"ofConstants.h"
+	"ofFileUtils.h"
+	"ofLog.h"
+	"ofSystemUtils.h"
+	"ofThread.h"
+	"ofURLFileLoader.h"
+	"ofUtils.h"
+	"ofBaseTypes.h"
+	"ofTypes.h"
+	"ofColor.h"
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofMath.h"
+	"ofVectorMath.h"
+	"ofSerial.h"
+	"ofArduino.h"
+	"ofFbo.h"
+	"ofGLRenderer.h"
+	"ofGLUtils.h"
+	"ofLight.h"
+	"ofMaterial.h"
+	"ofShader.h"
+	"ofTexture.h"
+	"ofVbo.h"
+	"ofVboMesh.h"
+	"ofCairoRenderer.h"
+	"ofGraphics.h"
+	"ofImage.h"
+	"ofPath.h"
+	"ofPixels.h"
+	"ofPolyline.h"
+	"ofRendererCollection.h"
+	"ofTessellator.h"
+	"ofTrueTypeFont.h"
+	"ofBaseApp.h"
+	"ofAppRunner.h"
+	"ofSoundStream.h"
+	"ofSoundPlayer.h"
+	"ofVideoGrabber.h"
+	"ofVideoPlayer.h"
+	"ofEvents.h"
+	"of3dUtils.h"
+	"ofCamera.h"
+	"ofEasyCam.h"
+	"ofMesh.h"
+	"ofNode.h"
+
+1338182390 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofconstants.h
+	<TargetConditionals.h>
+	<windows.h>
+	"GL\glew.h"
+	"GL\wglew.h"
+	"glu.h"
+	<unistd.h>
+	"GL/glew.h"
+	<OpenGL/gl.h>
+	<ApplicationServices/ApplicationServices.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<typeinfo>
+	<unistd.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	"glu.h"
+	"tesselator.h"
+	<cstdlib>
+	<cstdio>
+	<cstdarg>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+	<vector>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<fstream>
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\glew\include\gl\wglew.h
+	<windows.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\glu\include\glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\tess2\include\tesselator.h
+	<TargetConditionals.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\offileutils.h
+	"ofConstants.h"
+	"Poco/File.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+	<vector>
+	"File_WINCE.h"
+	"Poco/File_WIN32U.h"
+	"Poco/File_WIN32.h"
+	"Poco/File_VX.h"
+	"Poco/File_UNIX.h"
+	"Poco/File_VMS.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\foundation.h
+	"Poco/Config.h"
+	"Poco/Platform.h"
+	"Poco/Platform_WIN32.h"
+	"Poco/Platform_VMS.h"
+	"Poco/Platform_VX.h"
+	"Poco/Platform_POSIX.h"
+	"Poco/Bugcheck.h"
+	"Poco/Types.h"
+	<string>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\config.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_win32.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_vms.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_vx.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_posix.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\bugcheck.h
+	"Poco/Foundation.h"
+	<string>
+	<iostream>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\types.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\timestamp.h
+	"Poco/Foundation.h"
+	<ctime>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_wince.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_win32u.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_win32.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_vx.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_unix.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_vms.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\oflog.h
+	"ofConstants.h"
+	"ofFileUtils.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\oftypes.h
+	"ofConstants.h"
+	"ofColor.h"
+	<memory>
+	<tr1/memory>
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofcolor.h
+	<limits>
+	"ofMath.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofmath.h
+	"ofPoint.h"
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofpoint.h
+	"ofVec3f.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvec3f.h
+	"ofVec2f.h"
+	"ofVec4f.h"
+	"ofConstants.h"
+	<cmath>
+	<iostream>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvec2f.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvec4f.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/ScopedLock.h"
+	"Poco/Mutex_WINCE.h"
+	"Poco/Mutex_WIN32.h"
+	"Poco/Mutex_VX.h"
+	"Poco/Mutex_POSIX.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\exception.h
+	"Poco/Foundation.h"
+	<stdexcept>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\scopedlock.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_wince.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\unwindows.h
+	<windows.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_vx.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<semLib.h>
+	<errno.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofsystemutils.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofthread.h
+	"ofConstants.h"
+	"ofTypes.h"
+	"Poco/Thread.h"
+	"Poco/Runnable.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Thread_WINCE.h"
+	"Poco/Thread_WIN32.h"
+	"Poco/Thread_VX.h"
+	"Poco/Thread_POSIX.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_wince.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\runnable.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_win32.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_vx.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<taskLib.h>
+	<taskVarLib.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\signalhandler.h
+	"Poco/Foundation.h"
+	<vector>
+	<setjmp.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Event_WIN32.h"
+	"Poco/Event_VX.h"
+	"Poco/Event_POSIX.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event_vx.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<semLib.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\refcountedobject.h
+	"Poco/Foundation.h"
+	"Poco/AtomicCounter.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\atomiccounter.h
+	"Poco/Foundation.h"
+	"Poco/UnWindows.h"
+	<libkern/OSAtomic.h>
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\autoptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_posix.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<pthread.h>
+	<limits.h>
+	<sys/select.h>
+	<errno.h>
+	<cstring>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofurlfileloader.h
+	<deque>
+	<queue>
+	"ofThread.h"
+	"ofEvents.h"
+	"ofFileUtils.h"
+	"Poco/Condition.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\events\ofevents.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofEventUtils.h"
+	"ofxEventUtils.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\events\ofeventutils.h
+	"ofConstants.h"
+	"Poco/FIFOEvent.h"
+	"Poco/Delegate.h"
+	<stdio.h>
+	<stdlib.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\fifoevent.h
+	"Poco/AbstractEvent.h"
+	"Poco/FIFOStrategy.h"
+	"Poco/AbstractDelegate.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\abstractevent.h
+	"Poco/Foundation.h"
+	"Poco/SingletonHolder.h"
+	"Poco/SharedPtr.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveMethod.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\singletonholder.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\sharedptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/AtomicCounter.h"
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activeresult.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activemethod.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveRunnable.h"
+	"Poco/ActiveStarter.h"
+	"Poco/AutoPtr.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activerunnable.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/Runnable.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	"Poco/Exception.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activestarter.h
+	"Poco/Foundation.h"
+	"Poco/ThreadPool.h"
+	"Poco/ActiveRunnable.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\threadpool.h
+	"Poco/Foundation.h"
+	"Poco/Thread.h"
+	"Poco/Mutex.h"
+	<vector>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\fifostrategy.h
+	"Poco/DefaultStrategy.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\defaultstrategy.h
+	"Poco/NotificationStrategy.h"
+	"Poco/SharedPtr.h"
+	<vector>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\notificationstrategy.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\abstractdelegate.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\delegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/FunctionDelegate.h"
+	"Poco/Expire.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\functiondelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\expire.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\condition.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/ScopedUnlock.h"
+	"Poco/Event.h"
+	"Poco/Exception.h"
+	<deque>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\scopedunlock.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofutils.h
+	"ofConstants.h"
+	<bitset>
+	"ofLog.h"
+	<shellapi.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofbasetypes.h
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofConstants.h"
+	"ofColor.h"
+	"ofMesh.h"
+	"ofPixels.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofrectangle.h
+	"ofPoint.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofmesh.h
+	"ofVec3f.h"
+	"ofVec2f.h"
+	"ofColor.h"
+	"ofUtils.h"
+	"ofConstants.h"
+	"ofGLUtils.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofglutils.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofpixels.h
+	"ofConstants.h"
+	"ofUtils.h"
+	"ofColor.h"
+	"ofMath.h"
+	<limits>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvectormath.h
+	"ofVec2f.h"
+	"ofVec3f.h"
+	"ofVec4f.h"
+	"ofMatrix3x3.h"
+	"ofMatrix4x4.h"
+	"ofQuaternion.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofmatrix3x3.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofmatrix4x4.h
+	"ofVec3f.h"
+	"ofVec4f.h"
+	"ofQuaternion.h"
+	"ofConstants.h"
+	<cmath>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofquaternion.h
+	"ofConstants.h"
+	"ofVec3f.h"
+	"ofVec4f.h"
+	<cmath>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\communication\ofserial.h
+	"ofConstants.h"
+	"ofTypes.h"
+	<termios.h>
+	<winbase.h>
+	<tchar.h>
+	<iostream>
+	<string.h>
+	<setupapi.h>
+	<regstr.h>
+	<winioctl.h>
+	<initguid.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\communication\ofarduino.h
+	<list>
+	<vector>
+	<string>
+	<iostream>
+	"ofEvents.h"
+	"ofSerial.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\offbo.h
+	"ofTexture.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\oftexture.h
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofBaseTypes.h"
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofglrenderer.h
+	"ofBaseTypes.h"
+	"ofPolyline.h"
+	"ofMatrix4x4.h"
+	<stack>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofpolyline.h
+	"ofPoint.h"
+	"ofConstants.h"
+	<deque>
+	"ofRectangle.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\oflight.h
+	"ofNode.h"
+	"ofColor.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofnode.h
+	"ofVectorMath.h"
+	"of3dUtils.h"
+	"ofGraphics.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\of3dutils.h
+	"ofVectorMath.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofgraphics.h
+	"ofConstants.h"
+	"ofColor.h"
+	"ofPoint.h"
+	"ofMatrix4x4.h"
+	"ofRectangle.h"
+	"ofTypes.h"
+	"ofBaseTypes.h"
+	"ofGLRenderer.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofmaterial.h
+	"ofColor.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofshader.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofTexture.h"
+	"ofMatrix4x4.h"
+	<map>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofvbo.h
+	"ofConstants.h"
+	"ofVec3f.h"
+	"ofColor.h"
+	"ofUtils.h"
+	"ofMesh.h"
+	"ofGLUtils.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofvbomesh.h
+	"ofMesh.h"
+	"ofVbo.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofcairorenderer.h
+	"cairo-features.h"
+	"cairo-pdf.h"
+	"cairo-svg.h"
+	"cairo.h"
+	<deque>
+	<stack>
+	"ofMatrix4x4.h"
+	"ofBaseTypes.h"
+	"ofPath.h"
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-features.h
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-pdf.h
+	"cairo.h"
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo.h
+	"cairo-version.h"
+	"cairo-features.h"
+	"cairo-deprecated.h"
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-version.h
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-deprecated.h
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-svg.h
+	"cairo.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofpath.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofColor.h"
+	"ofPolyline.h"
+	"ofBaseTypes.h"
+	"ofMesh.h"
+	"ofTessellator.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\oftessellator.h
+	"ofConstants.h"
+	"ofMesh.h"
+	"ofTypes.h"
+	"ofPolyline.h"
+	"tesselator.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofimage.h
+	"ofFileUtils.h"
+	"ofTexture.h"
+	"ofPixels.h"
+	"ofBaseTypes.h"
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofrenderercollection.h
+	"ofBaseTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\oftruetypefont.h
+	<vector>
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofConstants.h"
+	"ofPath.h"
+	"ofTexture.h"
+	"ofMesh.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofbaseapp.h
+	"ofPoint.h"
+	"ofEvents.h"
+	"ofBaseTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofapprunner.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofsoundstream.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofBaseApp.h"
+	"ofTypes.h"
+	"ofBaseSoundStream.h"
+	"ofRtAudioSoundStream.h"
+	"ofPASoundStream.h"
+	"ofxAndroidSoundStream.h"
+	"ofxiPhoneSoundStream.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofbasesoundstream.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofrtaudiosoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofpasoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofxiphonesoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofsoundplayer.h
+	"ofConstants.h"
+	"ofTypes.h"
+	"ofBaseTypes.h"
+	"ofBaseSoundPlayer.h"
+	"ofQuicktimeSoundPlayer.h"
+	"ofFmodSoundPlayer.h"
+	"ofOpenALSoundPlayer.h"
+	"ofxOpenALSoundPlayer.h"
+	"ofxAndroidSoundPlayer.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofbasesoundplayer.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\offmodsoundplayer.h
+	"ofConstants.h"
+	"ofBaseSoundPlayer.h"
+	"fmod.h"
+	"fmod_errors.h"
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_codec.h
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_dsp.h
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_memoryinfo.h
+
+1338187258 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_errors.h
+	"fmod.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofopenalsoundplayer.h
+	"ofConstants.h"
+	"ofBaseSoundPlayer.h"
+	"ofEvents.h"
+	"ofThread.h"
+	<OpenAL/al.h>
+	<OpenAL/alc.h>
+	<AL/al.h>
+	<AL/alc.h>
+	"kiss_fft.h"
+	"kiss_fftr.h"
+	<sndfile.h>
+	<mpg123.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofvideograbber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofTypes.h"
+	"ofiPhoneVideoGrabber.h"
+	"ofQuickTimeGrabber.h"
+	"ofDirectShowGrabber.h"
+	"ofGstVideoGrabber.h"
+	"ofxAndroidVideoGrabber.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofiphonevideograbber.h
+	"ofVideoGrabber.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofquicktimegrabber.h
+	"ofConstants.h"
+	"ofQtUtils.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofqtutils.h
+	"ofConstants.h"
+	<QuickTime/QuickTime.h>
+	<CoreServices/CoreServices.h>
+	<ApplicationServices/ApplicationServices.h>
+	<QTML.h>
+	<FixMath.h>
+	<QuickTimeComponents.h>
+	<TextUtils.h>
+	<MediaHandlers.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\qtml.h
+	<MacTypes.h>
+	<MacMemory.h>
+	<MacWindows.h>
+	<OSUtils.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\mactypes.h
+	<ConditionalMacros.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\conditionalmacros.h
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\macmemory.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\mixedmode.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\macwindows.h
+	<MacTypes.h>
+	<Aliases.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<Drag.h>
+	<Events.h>
+	<Menus.h>
+	<MixedMode.h>
+	<QDOffscreen.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<Icons.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\aliases.h
+	<MacTypes.h>
+	<AppleTalk.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\appletalk.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\osutils.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<MacMemory.h>
+	<Patches.h>
+	<DateTimeUtils.h>
+	<Endian.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\patches.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\datetimeutils.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\endian.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\files.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<OSUtils.h>
+	<TextCommon.h>
+	<UTCUtils.h>
+	<Finder.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\textcommon.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\utcutils.h
+	<MacTypes.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\macerrors.h
+	<ConditionalMacros.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\finder.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\appleevents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Notification.h>
+	<Events.h>
+	<AEDataModel.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\notification.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\events.h
+	<OSUtils.h>
+	<Quickdraw.h>
+	<MacTypes.h>
+	<Endian.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quickdraw.h
+	<Components.h>
+	<MacTypes.h>
+	<MixedMode.h>
+	<QuickdrawText.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\components.h
+	<MacErrors.h>
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quickdrawtext.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\aedatamodel.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\collections.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\drag.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+	<AppleEvents.h>
+	<Quickdraw.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\menus.h
+	<MacTypes.h>
+	<Events.h>
+	<Quickdraw.h>
+	<Fonts.h>
+	<TextCommon.h>
+	<Processes.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\fonts.h
+	<MacTypes.h>
+	<Files.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\processes.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\qdoffscreen.h
+	<MacErrors.h>
+	<Quickdraw.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\icons.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Files.h>
+	<CodeFragments.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\codefragments.h
+	<MacTypes.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\fixmath.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quicktimecomponents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<Sound.h>
+	<QuickTimeMusic.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\imagecompression.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<QDOffscreen.h>
+	<Components.h>
+	<StandardFile.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\standardfile.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\dialogs.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Events.h>
+	<MacWindows.h>
+	<TextEdit.h>
+	<Controls.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\textedit.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\controls.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Menus.h>
+	<TextEdit.h>
+	<Drag.h>
+	<Icons.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\movies.h
+	<Quickdraw.h>
+	<Aliases.h>
+	<Events.h>
+	<Menus.h>
+	<Components.h>
+	<ImageCompression.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\video.h
+	<Quickdraw.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\sound.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Components.h>
+	<MixedMode.h>
+	<Movies.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quicktimemusic.h
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<MacMemory.h>
+	<Sound.h>
+	<Endian.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\textutils.h
+	<MacTypes.h>
+	<NumberFormatting.h>
+	<StringCompare.h>
+	<DateTimeUtils.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\numberformatting.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<IntlResources.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\intlresources.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\stringcompare.h
+	<MacTypes.h>
+	<TextCommon.h>
+	<Script.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\script.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<IntlResources.h>
+	<Events.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\mediahandlers.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<Components.h>
+	<Movies.h>
+	<Sound.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofdirectshowgrabber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"videoInput.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\videoinput\include\videoinput.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+	<windows.h>
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofgstvideograbber.h
+	"ofGstUtils.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofgstutils.h
+	"ofConstants.h"
+	<gst/gst.h>
+	<gst/app/gstappsink.h>
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofTypes.h"
+	"ofEvents.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofvideoplayer.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofTypes.h"
+	"ofGstVideoPlayer.h"
+	"ofQuickTimePlayer.h"
+	"ofiPhoneVideoPlayer.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofgstvideoplayer.h
+	"ofGstUtils.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofquicktimeplayer.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofQtUtils.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofiphonevideoplayer.h
+	"ofPixels.h"
+	"ofBaseTypes.h"
+	"ofTexture.h"
+	"ofVideoPlayer.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofcamera.h
+	"ofRectangle.h"
+	"ofAppRunner.h"
+	"ofNode.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofeasycam.h
+	"ofCamera.h"
+	"ofEvents.h"
+
+1348181826 source:c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\apps\myapps\nagpash\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppGlutWindow.h"
+
+1348185777 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\apps\myapps\nagpash\src\testapp.h
+	"ofMain.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofappglutwindow.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"ofEvents.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofappbasewindow.h
+	"ofPoint.h"
+	"ofTypes.h"
+
+1348195811 source:c:\users\saumik\desktop\of\ofcodeblocks\of_v0071_win_cb_release\apps\myapps\nagpash\src\testapp.cpp
+	"testApp.h"
+	<Windows.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\windows.h
+	<sdkddkver.h>
+	<winresrc.h>
+	<excpt.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<wincon.h>
+	<winver.h>
+	<winreg.h>
+	<winnetwk.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<winsock.h>
+	<wincrypt.h>
+	<winefs.h>
+	<winscard.h>
+	<winspool.h>
+	<ole.h>
+	<ole2.h>
+	<commdlg.h>
+	<stralign.h>
+	<winwlm.h>
+	<ole2.h>
+	<winsvc.h>
+	<mcx.h>
+	<imm.h>
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sdkddkver.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winresrc.h
+	<winuser.rh>
+	<commctrl.rh>
+	<dde.rh>
+	<winnt.rh>
+	<dlgs.h>
+	<winver.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.rh
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\commctrl.rh
+
+1254322630 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\dde.rh
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.rh
+
+1254322630 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\dlgs.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winver.h
+	<SpecStrings.h>
+	<verrsrc.h>
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\specstrings.h
+	"sal_supp.h"
+	"specstrings_supp.h"
+	<sal.h>
+	<specstrings_strict.h>
+	<driverspecs.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sal_supp.h
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\specstrings_supp.h
+	"sal_supp.h"
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\specstrings_strict.h
+	<specstrings_undef.h>
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\specstrings_undef.h
+
+1254322630 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\driverspecs.h
+	<specstrings.h>
+	"sdv_driverspecs.h"
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sdv_driverspecs.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\verrsrc.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\windef.h
+	<winnt.h>
+	<specstrings.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnt.h
+	<ctype.h>
+	<specstrings.h>
+	<kernelspecs.h>
+	<basetsd.h>
+	<guiddef.h>
+	<excpt.h>
+	<sdkddkver.h>
+	"pshpack4.h"
+	"poppack.h"
+	"pshpack4.h"
+	"poppack.h"
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"pshpack2.h"
+	"pshpack1.h"
+	"poppack.h"
+	"pshpack2.h"
+	<pshpack2.h>
+	<poppack.h>
+	"poppack.h"
+	"pshpack8.h"
+	"poppack.h"
+	"poppack.h"
+	<string.h>
+	<string.h>
+	<ktmtypes.h>
+
+1254322632 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\kernelspecs.h
+	"DriverSpecs.h"
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\basetsd.h
+
+1254322632 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\guiddef.h
+	<string.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack4.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\poppack.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack2.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack1.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack8.h
+
+1254322632 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\ktmtypes.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winbase.h
+	<macwin32.h>
+	<winerror.h>
+	"winbase.inl"
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winerror.h
+	<specstrings.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winbase.inl
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\wingdi.h
+	<macwin32.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"poppack.h"
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.h
+	<macwin32.h>
+	<stdarg.h>
+	<pshpack2.h>
+	<poppack.h>
+	<tvout.h>
+	"winuser.inl"
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\tvout.h
+	<guiddef.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.inl
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnls.h
+	<macwin32.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\wincon.h
+	<wingdi.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winreg.h
+	<macwin32.h>
+	<reason.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\reason.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winnetwk.h
+	<wnnc.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\wnnc.h
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\cderr.h
+
+1254322630 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\dde.h
+	<windef.h>
+
+1254322630 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\ddeml.h
+
+1254322634 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\lzexpand.h
+
+1254322634 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\mmsystem.h
+	<pshpack1.h>
+	<macwin32.h>
+	<poppack.h>
+
+1254322634 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpc.h
+	<windows.h>
+	<pshpack2.h>
+	<basetsd.h>
+	<pshpack8.h>
+	<setjmp.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcerr.h>
+	<rpcmac.h>
+	<poppack.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<excpt.h>
+	<winerror.h>
+	<rpcasync.h>
+	<poppack.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcdce.h
+	<specstrings.h>
+	<guiddef.h>
+	<rpcdcep.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcdcep.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcnsi.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcnterr.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcasync.h
+	<pshpack8.h>
+	<ntddk.h>
+	<windef.h>
+	<poppack.h>
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\shellapi.h
+	<SpecStrings.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winperf.h
+	<pshpack8.h>
+	<poppack.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winsock.h
+	<windows.h>
+	<inaddr.h>
+
+1254322632 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\inaddr.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\wincrypt.h
+	<specstrings.h>
+	<bcrypt.h>
+	<ncrypt.h>
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\bcrypt.h
+
+1254322634 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\ncrypt.h
+	<bcrypt.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winefs.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winscard.h
+	<wtypes.h>
+	<winioctl.h>
+	"winsmcrd.h"
+	"SCardErr.h"
+
+1254322642 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\wtypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"basetsd.h"
+	"guiddef.h"
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcndr.h
+	<pshpack8.h>
+	<basetsd.h>
+	<rpcnsip.h>
+	<rpcsal.h>
+	<poppack.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcnsip.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcsal.h
+	<specstrings.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winioctl.h
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winsmcrd.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\scarderr.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winspool.h
+	<prsht.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\prsht.h
+	<pshpack8.h>
+	<pshpack4.h>
+	"prsht.inl"
+	<poppack.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\prsht.inl
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\ole.h
+	<pshpack1.h>
+	<poppack.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\ole2.h
+	<pshpack8.h>
+	<winerror.h>
+	<objbase.h>
+	<oleauto.h>
+	<oleidl.h>
+	<poppack.h>
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<stdlib.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<guiddef.h>
+	<cguid.h>
+	<urlmon.h>
+	<propidl.h>
+	<poppack.h>
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\unknwn.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypes.h"
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\objidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\cguid.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\urlmon.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"servprov.h"
+	"msxml.h"
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\oleidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\servprov.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1254322634 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h
+	"rpc.h"
+	"rpcndr.h"
+	"unknwn.h"
+	"objidl.h"
+	"oaidl.h"
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\oaidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\propidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\oleauto.h
+	<pshpack8.h>
+	<oaidl.h>
+	<poppack.h>
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\commdlg.h
+	<prsht.h>
+	<pshpack1.h>
+	"commdlg.inl"
+	<poppack.h>
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\commdlg.inl
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\stralign.h
+
+1254322640 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winsvc.h
+
+1254322634 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\mcx.h
+
+1254322632 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\imm.h
+	<ime_cmodes.h>
+
+1254322632 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\ime_cmodes.h
+
+1254322642 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\gl\glu.h
+	<GL/gl.h>
+
+1254322642 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\gl\gl.h
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\setupapi.h
+	<spapidef.h>
+	<commctrl.h>
+	<devpropdef.h>
+	<pshpack8.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1254322638 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\spapidef.h
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\commctrl.h
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	"commctrl.inl"
+
+1254322628 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\commctrl.inl
+
+1254322630 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\devpropdef.h
+
+1254322636 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\regstr.h
+
+1254322632 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\initguid.h
+	<guiddef.h>
+
+1264010976 c:\program files (x86)\microsoft visual studio 10.0\vc\include\sal.h
+	"codeanalysis\sourceannotations.h"
+
+1263327228 c:\program files (x86)\microsoft visual studio 10.0\vc\include\codeanalysis\sourceannotations.h
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\excpt.h
+	<crtdefs.h>
+
+1260288354 c:\program files (x86)\microsoft visual studio 10.0\vc\include\crtdefs.h
+	<sal.h>
+	<vadefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vadefs.h
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdarg.h
+	<vadefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ctype.h
+	<crtdefs.h>
+
+1260288354 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h
+	<crtdefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\setjmp.h
+	<crtdefs.h>
+	<setjmpex.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\setjmpex.h
+	<setjmp.h>
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h
+	<crtdefs.h>
+	<limits.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\limits.h
+	<crtdefs.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stddef.h
+	<crtdefs.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdint.h
+	<yvals.h>
+
+1258294976 c:\program files (x86)\microsoft visual studio 10.0\vc\include\yvals.h
+	<crtdefs.h>
+	<xkeycheck.h>
+	<crtwrn.h>
+	<use_ansi.h>
+	<crtwrn.h>
+	<crtwrn.h>
+
+1251671394 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xkeycheck.h
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\crtwrn.h
+	<crtdefs.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\use_ansi.h
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\typeinfo
+	<xstddef>
+	<string.h>
+	<exception>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstddef
+	<yvals.h>
+	<cstddef>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cstddef
+	<yvals.h>
+	<stddef.h>
+	<stddef.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\exception
+	<xstddef>
+	<eh.h>
+	<malloc.h>
+	<string.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\eh.h
+	<crtdefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\malloc.h
+	<crtdefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cstdlib
+	<yvals.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cstdio
+	<yvals.h>
+	<stdio.h>
+	<stdio.h>
+
+1257358408 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h
+	<crtdefs.h>
+	<swprintf.inl>
+
+1256221236 c:\program files (x86)\microsoft visual studio 10.0\vc\include\swprintf.inl
+	<vadefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cstdarg
+	<yvals.h>
+	<stdarg.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cmath
+	<yvals.h>
+	<math.h>
+	<math.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h
+	<crtdefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ctime
+	<yvals.h>
+	<time.h>
+	<time.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.h
+	<crtdefs.h>
+	<wtime.inl>
+	<time.inl>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wtime.inl
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string
+	<istream>
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\istream
+	<ostream>
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream
+	<ios>
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ios
+	<xlocnum>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xlocnum
+	<climits>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<streambuf>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\climits
+	<yvals.h>
+	<limits.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\streambuf
+	<xiosbase>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xiosbase
+	<xlocale>
+	<system_error>
+	<share.h>
+
+1263141742 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xlocale
+	<climits>
+	<cstring>
+	<stdexcept>
+	<typeinfo>
+	<xlocinfo>
+	<xdebug>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cstring
+	<yvals.h>
+	<string.h>
+	<string.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdexcept
+	<exception>
+	<xstring>
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstring
+	<xmemory>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory
+	<cstdlib>
+	<new>
+	<xutility>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\new
+	<exception>
+
+1258294976 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility
+	<climits>
+	<cstdlib>
+	<utility>
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\utility
+	<xstddef>
+	<iosfwd>
+	<type_traits>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\iosfwd
+	<cstdio>
+	<cstring>
+	<cwchar>
+	<xstddef>
+	<crtdbg.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cwchar
+	<yvals.h>
+	<wchar.h>
+	<wchar.h>
+
+1257358408 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h
+	<crtdefs.h>
+	<swprintf.inl>
+	<wtime.inl>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\crtdbg.h
+	<crtdefs.h>
+
+1263141742 c:\program files (x86)\microsoft visual studio 10.0\vc\include\type_traits
+	<limits>
+	<xtr1common>
+	<xfwrap>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\limits
+	<ymath.h>
+	<cfloat>
+	<climits>
+	<cmath>
+	<cwchar>
+	<xstddef>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ymath.h
+	<yvals.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cfloat
+	<yvals.h>
+	<float.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\float.h
+	<crtdefs.h>
+	<crtwrn.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xtr1common
+	<yvals.h>
+
+1263141742 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xfwrap
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+	<xfwrap1>
+
+1263141742 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xfwrap1
+	<xxbind1>
+	<xxcallfun>
+	<xxcallobj>
+	<xxcallpmf>
+	<xxfunction>
+	<xxmem_fn>
+	<xxpmfcaller>
+	<xxrefwrap>
+	<xxresult>
+	<xxshared>
+	<xxtuple0>
+	<xxtuple1>
+	<xxtype_traits>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxbind1
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxcallfun
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxcallobj
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxcallpmf
+
+1257694584 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxfunction
+
+1251671394 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxmem_fn
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxpmfcaller
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxrefwrap
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxresult
+
+1251671394 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxshared
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxtuple0
+
+1251671394 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxtuple1
+
+1251671394 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xxtype_traits
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xlocinfo
+	<xlocinfo.h>
+	<cstdlib>
+	<xstddef>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xlocinfo.h
+	<ctype.h>
+	<locale.h>
+	<wchar.h>
+	<yvals.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\locale.h
+	<crtdefs.h>
+
+1263141742 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xdebug
+	<yvals.h>
+	<crtdbg.h>
+	<xmemory>
+
+1260288354 c:\program files (x86)\microsoft visual studio 10.0\vc\include\system_error
+	<cerrno>
+	<cstdlib>
+	<stdexcept>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\cerrno
+	<yvals.h>
+	<errno.h>
+	<errno.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\errno.h
+	<crtdefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\share.h
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\iostream
+	<istream>
+
+1258294976 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector
+	<memory>
+	<stdexcept>
+	<xfunctional>
+
+1267630944 c:\program files (x86)\microsoft visual studio 10.0\vc\include\memory
+	<xmemory>
+	<exception>
+	<typeinfo>
+	<type_traits>
+	<intrin.h>
+	<xfwrap>
+	<xfwrap>
+	<xfwrap>
+
+1263141742 c:\program files (x86)\microsoft visual studio 10.0\vc\include\intrin.h
+	<crtdefs.h>
+	<setjmp.h>
+	<stddef.h>
+	<immintrin.h>
+	<mm3dnow.h>
+
+1251671392 c:\program files (x86)\microsoft visual studio 10.0\vc\include\immintrin.h
+	<wmmintrin.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wmmintrin.h
+	<nmmintrin.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\nmmintrin.h
+	<smmintrin.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\smmintrin.h
+	<tmmintrin.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\tmmintrin.h
+	<pmmintrin.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\pmmintrin.h
+	<emmintrin.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\emmintrin.h
+	<xmmintrin.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xmmintrin.h
+	<mmintrin.h>
+	"xmm_func.h"
+	<malloc.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\mmintrin.h
+	<crtdefs.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\mm3dnow.h
+	<crtdefs.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+
+1251671394 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xfunctional
+	<cstdlib>
+	<xstring>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\sstream
+	<string>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\iomanip
+	<istream>
+	<xlocmon>
+	<xloctime>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xlocmon
+	<xlocnum>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xloctime
+	<ctime>
+	<xlocnum>
+
+1263141742 c:\program files (x86)\microsoft visual studio 10.0\vc\include\fstream
+	<istream>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\algorithm
+	<memory>
+
+1258294976 c:\program files (x86)\microsoft visual studio 10.0\vc\include\deque
+	<memory>
+	<stdexcept>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\queue
+	<algorithm>
+	<deque>
+	<xfunctional>
+	<vector>
+
+1258294976 c:\program files (x86)\microsoft visual studio 10.0\vc\include\bitset
+	<string>
+	<xfunctional>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\tchar.h
+	<crtdefs.h>
+	<wchar.h>
+	<string.h>
+	<mbstring.h>
+
+1251666266 c:\program files (x86)\microsoft visual studio 10.0\vc\include\mbstring.h
+	<crtdefs.h>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\list
+	<xfunctional>
+	<memory>
+	<stdexcept>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stack
+	<deque>
+
+1254322428 c:\program files (x86)\microsoft visual studio 10.0\vc\include\map
+	<xtree>
+
+1258294976 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xtree
+	<xfunctional>
+	<memory>
+	<stdexcept>
+
+1348571909 source:c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\apps\myapps\nagpash\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppGlutWindow.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\ofmain.h
+	"ofConstants.h"
+	"ofFileUtils.h"
+	"ofLog.h"
+	"ofSystemUtils.h"
+	"ofThread.h"
+	"ofURLFileLoader.h"
+	"ofUtils.h"
+	"ofBaseTypes.h"
+	"ofTypes.h"
+	"ofColor.h"
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofMath.h"
+	"ofVectorMath.h"
+	"ofSerial.h"
+	"ofArduino.h"
+	"ofFbo.h"
+	"ofGLRenderer.h"
+	"ofGLUtils.h"
+	"ofLight.h"
+	"ofMaterial.h"
+	"ofShader.h"
+	"ofTexture.h"
+	"ofVbo.h"
+	"ofVboMesh.h"
+	"ofCairoRenderer.h"
+	"ofGraphics.h"
+	"ofImage.h"
+	"ofPath.h"
+	"ofPixels.h"
+	"ofPolyline.h"
+	"ofRendererCollection.h"
+	"ofTessellator.h"
+	"ofTrueTypeFont.h"
+	"ofBaseApp.h"
+	"ofAppRunner.h"
+	"ofSoundStream.h"
+	"ofSoundPlayer.h"
+	"ofVideoGrabber.h"
+	"ofVideoPlayer.h"
+	"ofEvents.h"
+	"of3dUtils.h"
+	"ofCamera.h"
+	"ofEasyCam.h"
+	"ofMesh.h"
+	"ofNode.h"
+
+1338182390 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofconstants.h
+	<TargetConditionals.h>
+	<windows.h>
+	"GL\glew.h"
+	"GL\wglew.h"
+	"glu.h"
+	<unistd.h>
+	"GL/glew.h"
+	<OpenGL/gl.h>
+	<ApplicationServices/ApplicationServices.h>
+	<unistd.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<typeinfo>
+	<unistd.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	"glu.h"
+	"tesselator.h"
+	<cstdlib>
+	<cstdio>
+	<cstdarg>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+	<vector>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<fstream>
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\glew\include\gl\wglew.h
+	<windows.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\glu\include\glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\tess2\include\tesselator.h
+	<TargetConditionals.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\offileutils.h
+	"ofConstants.h"
+	"Poco/File.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+	<vector>
+	"File_WINCE.h"
+	"Poco/File_WIN32U.h"
+	"Poco/File_WIN32.h"
+	"Poco/File_VX.h"
+	"Poco/File_UNIX.h"
+	"Poco/File_VMS.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\foundation.h
+	"Poco/Config.h"
+	"Poco/Platform.h"
+	"Poco/Platform_WIN32.h"
+	"Poco/Platform_VMS.h"
+	"Poco/Platform_VX.h"
+	"Poco/Platform_POSIX.h"
+	"Poco/Bugcheck.h"
+	"Poco/Types.h"
+	<string>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\config.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_win32.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_vms.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_vx.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\platform_posix.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\bugcheck.h
+	"Poco/Foundation.h"
+	<string>
+	<iostream>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\types.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\timestamp.h
+	"Poco/Foundation.h"
+	<ctime>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_wince.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_win32u.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_win32.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_vx.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_unix.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\file_vms.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\oflog.h
+	"ofConstants.h"
+	"ofFileUtils.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\oftypes.h
+	"ofConstants.h"
+	"ofColor.h"
+	<memory>
+	<tr1/memory>
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofcolor.h
+	<limits>
+	"ofMath.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofmath.h
+	"ofPoint.h"
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofpoint.h
+	"ofVec3f.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvec3f.h
+	"ofVec2f.h"
+	"ofVec4f.h"
+	"ofConstants.h"
+	<cmath>
+	<iostream>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvec2f.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvec4f.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/ScopedLock.h"
+	"Poco/Mutex_WINCE.h"
+	"Poco/Mutex_WIN32.h"
+	"Poco/Mutex_VX.h"
+	"Poco/Mutex_POSIX.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\exception.h
+	"Poco/Foundation.h"
+	<stdexcept>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\scopedlock.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_wince.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\unwindows.h
+	<windows.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_vx.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<semLib.h>
+	<errno.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\mutex_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofsystemutils.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofthread.h
+	"ofConstants.h"
+	"ofTypes.h"
+	"Poco/Thread.h"
+	"Poco/Runnable.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Thread_WINCE.h"
+	"Poco/Thread_WIN32.h"
+	"Poco/Thread_VX.h"
+	"Poco/Thread_POSIX.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_wince.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\runnable.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_win32.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_vx.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<taskLib.h>
+	<taskVarLib.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\signalhandler.h
+	"Poco/Foundation.h"
+	<vector>
+	<setjmp.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Event_WIN32.h"
+	"Poco/Event_VX.h"
+	"Poco/Event_POSIX.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event_vx.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<semLib.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\event_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\refcountedobject.h
+	"Poco/Foundation.h"
+	"Poco/AtomicCounter.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\atomiccounter.h
+	"Poco/Foundation.h"
+	"Poco/UnWindows.h"
+	<libkern/OSAtomic.h>
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\autoptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\thread_posix.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<pthread.h>
+	<limits.h>
+	<sys/select.h>
+	<errno.h>
+	<cstring>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofurlfileloader.h
+	<deque>
+	<queue>
+	"ofThread.h"
+	"ofEvents.h"
+	"ofFileUtils.h"
+	"Poco/Condition.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\events\ofevents.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofEventUtils.h"
+	"ofxEventUtils.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\events\ofeventutils.h
+	"ofConstants.h"
+	"Poco/FIFOEvent.h"
+	"Poco/Delegate.h"
+	<stdio.h>
+	<stdlib.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\fifoevent.h
+	"Poco/AbstractEvent.h"
+	"Poco/FIFOStrategy.h"
+	"Poco/AbstractDelegate.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\abstractevent.h
+	"Poco/Foundation.h"
+	"Poco/SingletonHolder.h"
+	"Poco/SharedPtr.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveMethod.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\singletonholder.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\sharedptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/AtomicCounter.h"
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activeresult.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activemethod.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveRunnable.h"
+	"Poco/ActiveStarter.h"
+	"Poco/AutoPtr.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activerunnable.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/Runnable.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	"Poco/Exception.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\activestarter.h
+	"Poco/Foundation.h"
+	"Poco/ThreadPool.h"
+	"Poco/ActiveRunnable.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\threadpool.h
+	"Poco/Foundation.h"
+	"Poco/Thread.h"
+	"Poco/Mutex.h"
+	<vector>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\fifostrategy.h
+	"Poco/DefaultStrategy.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\defaultstrategy.h
+	"Poco/NotificationStrategy.h"
+	"Poco/SharedPtr.h"
+	<vector>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\notificationstrategy.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\abstractdelegate.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\delegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/FunctionDelegate.h"
+	"Poco/Expire.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\functiondelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/Mutex.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\expire.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/Timestamp.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\condition.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/ScopedUnlock.h"
+	"Poco/Event.h"
+	"Poco/Exception.h"
+	<deque>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\poco\include\poco\scopedunlock.h
+	"Poco/Foundation.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\utils\ofutils.h
+	"ofConstants.h"
+	<bitset>
+	"ofLog.h"
+	<shellapi.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofbasetypes.h
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofConstants.h"
+	"ofColor.h"
+	"ofMesh.h"
+	"ofPixels.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\types\ofrectangle.h
+	"ofPoint.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofmesh.h
+	"ofVec3f.h"
+	"ofVec2f.h"
+	"ofColor.h"
+	"ofUtils.h"
+	"ofConstants.h"
+	"ofGLUtils.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofglutils.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofpixels.h
+	"ofConstants.h"
+	"ofUtils.h"
+	"ofColor.h"
+	"ofMath.h"
+	<limits>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofvectormath.h
+	"ofVec2f.h"
+	"ofVec3f.h"
+	"ofVec4f.h"
+	"ofMatrix3x3.h"
+	"ofMatrix4x4.h"
+	"ofQuaternion.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofmatrix3x3.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofmatrix4x4.h
+	"ofVec3f.h"
+	"ofVec4f.h"
+	"ofQuaternion.h"
+	"ofConstants.h"
+	<cmath>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\math\ofquaternion.h
+	"ofConstants.h"
+	"ofVec3f.h"
+	"ofVec4f.h"
+	<cmath>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\communication\ofserial.h
+	"ofConstants.h"
+	"ofTypes.h"
+	<termios.h>
+	<winbase.h>
+	<tchar.h>
+	<iostream>
+	<string.h>
+	<setupapi.h>
+	<regstr.h>
+	<winioctl.h>
+	<initguid.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\communication\ofarduino.h
+	<list>
+	<vector>
+	<string>
+	<iostream>
+	"ofEvents.h"
+	"ofSerial.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\offbo.h
+	"ofTexture.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\oftexture.h
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofBaseTypes.h"
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofglrenderer.h
+	"ofBaseTypes.h"
+	"ofPolyline.h"
+	"ofMatrix4x4.h"
+	<stack>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofpolyline.h
+	"ofPoint.h"
+	"ofConstants.h"
+	<deque>
+	"ofRectangle.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\oflight.h
+	"ofNode.h"
+	"ofColor.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofnode.h
+	"ofVectorMath.h"
+	"of3dUtils.h"
+	"ofGraphics.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\of3dutils.h
+	"ofVectorMath.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofgraphics.h
+	"ofConstants.h"
+	"ofColor.h"
+	"ofPoint.h"
+	"ofMatrix4x4.h"
+	"ofRectangle.h"
+	"ofTypes.h"
+	"ofBaseTypes.h"
+	"ofGLRenderer.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofmaterial.h
+	"ofColor.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofshader.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofTexture.h"
+	"ofMatrix4x4.h"
+	<map>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofvbo.h
+	"ofConstants.h"
+	"ofVec3f.h"
+	"ofColor.h"
+	"ofUtils.h"
+	"ofMesh.h"
+	"ofGLUtils.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\gl\ofvbomesh.h
+	"ofMesh.h"
+	"ofVbo.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofcairorenderer.h
+	"cairo-features.h"
+	"cairo-pdf.h"
+	"cairo-svg.h"
+	"cairo.h"
+	<deque>
+	<stack>
+	"ofMatrix4x4.h"
+	"ofBaseTypes.h"
+	"ofPath.h"
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-features.h
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-pdf.h
+	"cairo.h"
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo.h
+	"cairo-version.h"
+	"cairo-features.h"
+	"cairo-deprecated.h"
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-version.h
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-deprecated.h
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\cairo\include\cairo\cairo-svg.h
+	"cairo.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofpath.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofColor.h"
+	"ofPolyline.h"
+	"ofBaseTypes.h"
+	"ofMesh.h"
+	"ofTessellator.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\oftessellator.h
+	"ofConstants.h"
+	"ofMesh.h"
+	"ofTypes.h"
+	"ofPolyline.h"
+	"tesselator.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofimage.h
+	"ofFileUtils.h"
+	"ofTexture.h"
+	"ofPixels.h"
+	"ofBaseTypes.h"
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\ofrenderercollection.h
+	"ofBaseTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\graphics\oftruetypefont.h
+	<vector>
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofConstants.h"
+	"ofPath.h"
+	"ofTexture.h"
+	"ofMesh.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofbaseapp.h
+	"ofPoint.h"
+	"ofEvents.h"
+	"ofBaseTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofapprunner.h
+	"ofConstants.h"
+	"ofPoint.h"
+	"ofRectangle.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofsoundstream.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofBaseApp.h"
+	"ofTypes.h"
+	"ofBaseSoundStream.h"
+	"ofRtAudioSoundStream.h"
+	"ofPASoundStream.h"
+	"ofxAndroidSoundStream.h"
+	"ofxiPhoneSoundStream.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofbasesoundstream.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofrtaudiosoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofpasoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofxiphonesoundstream.h
+	"ofConstants.h"
+	"ofBaseSoundStream.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofsoundplayer.h
+	"ofConstants.h"
+	"ofTypes.h"
+	"ofBaseTypes.h"
+	"ofBaseSoundPlayer.h"
+	"ofQuicktimeSoundPlayer.h"
+	"ofFmodSoundPlayer.h"
+	"ofOpenALSoundPlayer.h"
+	"ofxOpenALSoundPlayer.h"
+	"ofxAndroidSoundPlayer.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofbasesoundplayer.h
+	"ofConstants.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\offmodsoundplayer.h
+	"ofConstants.h"
+	"ofBaseSoundPlayer.h"
+	"fmod.h"
+	"fmod_errors.h"
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_codec.h
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_dsp.h
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_memoryinfo.h
+
+1338187258 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\fmodex\include\fmod_errors.h
+	"fmod.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\sound\ofopenalsoundplayer.h
+	"ofConstants.h"
+	"ofBaseSoundPlayer.h"
+	"ofEvents.h"
+	"ofThread.h"
+	<OpenAL/al.h>
+	<OpenAL/alc.h>
+	<AL/al.h>
+	<AL/alc.h>
+	"kiss_fft.h"
+	"kiss_fftr.h"
+	<sndfile.h>
+	<mpg123.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofvideograbber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofTypes.h"
+	"ofiPhoneVideoGrabber.h"
+	"ofQuickTimeGrabber.h"
+	"ofDirectShowGrabber.h"
+	"ofGstVideoGrabber.h"
+	"ofxAndroidVideoGrabber.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofiphonevideograbber.h
+	"ofVideoGrabber.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofquicktimegrabber.h
+	"ofConstants.h"
+	"ofQtUtils.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofqtutils.h
+	"ofConstants.h"
+	<QuickTime/QuickTime.h>
+	<CoreServices/CoreServices.h>
+	<ApplicationServices/ApplicationServices.h>
+	<QTML.h>
+	<FixMath.h>
+	<QuickTimeComponents.h>
+	<TextUtils.h>
+	<MediaHandlers.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\qtml.h
+	<MacTypes.h>
+	<MacMemory.h>
+	<MacWindows.h>
+	<OSUtils.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\mactypes.h
+	<ConditionalMacros.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\conditionalmacros.h
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\macmemory.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\mixedmode.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\macwindows.h
+	<MacTypes.h>
+	<Aliases.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<Drag.h>
+	<Events.h>
+	<Menus.h>
+	<MixedMode.h>
+	<QDOffscreen.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<Icons.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\aliases.h
+	<MacTypes.h>
+	<AppleTalk.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\appletalk.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\osutils.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<MacMemory.h>
+	<Patches.h>
+	<DateTimeUtils.h>
+	<Endian.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\patches.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\datetimeutils.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\endian.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\files.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<OSUtils.h>
+	<TextCommon.h>
+	<UTCUtils.h>
+	<Finder.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\textcommon.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\utcutils.h
+	<MacTypes.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\macerrors.h
+	<ConditionalMacros.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\finder.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\appleevents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Notification.h>
+	<Events.h>
+	<AEDataModel.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\notification.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\events.h
+	<OSUtils.h>
+	<Quickdraw.h>
+	<MacTypes.h>
+	<Endian.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quickdraw.h
+	<Components.h>
+	<MacTypes.h>
+	<MixedMode.h>
+	<QuickdrawText.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\components.h
+	<MacErrors.h>
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quickdrawtext.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\aedatamodel.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\collections.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\drag.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+	<AppleEvents.h>
+	<Quickdraw.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\menus.h
+	<MacTypes.h>
+	<Events.h>
+	<Quickdraw.h>
+	<Fonts.h>
+	<TextCommon.h>
+	<Processes.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\fonts.h
+	<MacTypes.h>
+	<Files.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\processes.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\qdoffscreen.h
+	<MacErrors.h>
+	<Quickdraw.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\icons.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Files.h>
+	<CodeFragments.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\codefragments.h
+	<MacTypes.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\fixmath.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quicktimecomponents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<Sound.h>
+	<QuickTimeMusic.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\imagecompression.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<QDOffscreen.h>
+	<Components.h>
+	<StandardFile.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\standardfile.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Files.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\dialogs.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Events.h>
+	<MacWindows.h>
+	<TextEdit.h>
+	<Controls.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\textedit.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<MixedMode.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\controls.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Menus.h>
+	<TextEdit.h>
+	<Drag.h>
+	<Icons.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\movies.h
+	<Quickdraw.h>
+	<Aliases.h>
+	<Events.h>
+	<Menus.h>
+	<Components.h>
+	<ImageCompression.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\video.h
+	<Quickdraw.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\sound.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Components.h>
+	<MixedMode.h>
+	<Movies.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\quicktimemusic.h
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<MacMemory.h>
+	<Sound.h>
+	<Endian.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\textutils.h
+	<MacTypes.h>
+	<NumberFormatting.h>
+	<StringCompare.h>
+	<DateTimeUtils.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\numberformatting.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<IntlResources.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\intlresources.h
+	<MacTypes.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\stringcompare.h
+	<MacTypes.h>
+	<TextCommon.h>
+	<Script.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\script.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<IntlResources.h>
+	<Events.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\quicktime\include\mediahandlers.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<Components.h>
+	<Movies.h>
+	<Sound.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofdirectshowgrabber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"videoInput.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\videoinput\include\videoinput.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+	<windows.h>
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofgstvideograbber.h
+	"ofGstUtils.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofgstutils.h
+	"ofConstants.h"
+	<gst/gst.h>
+	<gst/app/gstappsink.h>
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofTypes.h"
+	"ofEvents.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofvideoplayer.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofBaseTypes.h"
+	"ofTypes.h"
+	"ofGstVideoPlayer.h"
+	"ofQuickTimePlayer.h"
+	"ofiPhoneVideoPlayer.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofgstvideoplayer.h
+	"ofGstUtils.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofquicktimeplayer.h
+	"ofConstants.h"
+	"ofBaseTypes.h"
+	"ofPixels.h"
+	"ofQtUtils.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\video\ofiphonevideoplayer.h
+	"ofPixels.h"
+	"ofBaseTypes.h"
+	"ofTexture.h"
+	"ofVideoPlayer.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofcamera.h
+	"ofRectangle.h"
+	"ofAppRunner.h"
+	"ofNode.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\3d\ofeasycam.h
+	"ofCamera.h"
+	"ofEvents.h"
+
+1348276035 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\apps\myapps\nagpash\src\testapp.h
+	"ofMain.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofappglutwindow.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"ofEvents.h"
+	"ofTypes.h"
+
+1338187260 c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\libs\openframeworks\app\ofappbasewindow.h
+	"ofPoint.h"
+	"ofTypes.h"
+
+1348576947 source:c:\users\saumik\desktop\mydesktop\of\ofcodeblocks\of_v0071_win_cb_release\apps\myapps\nagpash\src\testapp.cpp
+	"testApp.h"
+	<Windows.h>
+
+1348576947 source:c:\nagpash_final\nagpash_source code\src\testapp.cpp
+	"testApp.h"
+	<Windows.h>
+
+1348276035 c:\nagpash_final\nagpash_source code\src\testapp.h
+	"ofMain.h"
+
+1348571909 source:c:\nagpash_final\nagpash_source code\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppGlutWindow.h"
+
+1348576947 source:c:\users\intel\desktop\nagpash_final\nagpash_source code\src\testapp.cpp
+	"testApp.h"
+	<Windows.h>
+
+1348276035 c:\users\intel\desktop\nagpash_final\nagpash_source code\src\testapp.h
+	"ofMain.h"
+
+1348571909 source:c:\users\intel\desktop\nagpash_final\nagpash_source code\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppGlutWindow.h"
+
